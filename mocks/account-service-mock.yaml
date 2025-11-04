@@ -1,0 +1,14 @@
+type: mock.insomnia.rest/5.0
+name: account-service-mock
+meta:
+  id: wrk_0bf487a5a87e495c94258e5f4a43c248
+  created: 1762288469533
+  modified: 1762288492044
+  description: ""
+server:
+  meta:
+    id: mock_b62a9e165d68445b99f7c13e243e91c0
+    created: 1762288469541
+    modified: 1762288492043
+  url: http://localhost:8080
+  useInsomniaCloud: false
